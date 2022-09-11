@@ -1,1 +1,1 @@
-# inforace-o-cookies
+# Informace o cookies 🍪
