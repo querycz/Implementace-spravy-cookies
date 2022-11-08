@@ -1,4 +1,4 @@
-# Informace o implementaci cookies 🍪
+# Implementace správy cookies 🍪
 
 - Pro správu cookies je implementován modifikovaný skript https://github.com/orestbida/cookieconsent v aktuální stabilní verzi
 - Při zvolení souhlasu, nesouhlasu nebo změny souhlasu je tato informace zaznamenána do databáze pro možné doložení
