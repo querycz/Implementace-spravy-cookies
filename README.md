@@ -1,7 +1,7 @@
 # Implementace správy cookies 🍪
 
 - Pro správu cookies je implementován modifikovaný skript https://github.com/orestbida/cookieconsent v aktuální stabilní verzi
-- Při zvolení souhlasu, nesouhlasu nebo změny souhlasu je tato informace zaznamenána do databáze pro možné doložení
+- Při zvolení souhlasu, nesouhlasu nebo změny souhlasu je tato informace zaznamenána do externí databáze pro možnou potřebu doložení souhlasu/nesouhlasu
 - Cookies implementace podporuje jazykové mutace
 - Cookies implementace podporuje Google Consent Mode a Facebook Pixel Consent Mode
 - Cookies banner je vizuálně modifikován do podoby webu (fonty, barvy atp.)
